@@ -1,3 +1,0 @@
-Reorder the dataframe columns with column numbers.
-# order = [32] + list(range(0,32))
-# data = trial[trial.columns[order]]
