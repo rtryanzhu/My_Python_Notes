@@ -1,4 +1,1 @@
-# Basic operations
-
-# Return a string from set
-return "".join(SET)
+Some python code pieces might be useful in data analysis.
